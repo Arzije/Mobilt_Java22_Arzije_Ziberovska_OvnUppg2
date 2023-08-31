@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Battery</string>
+    <string name="battery_level">Battery Level: %1$.2f%%</string>
+    <string name="charging">Charging</string>
+    <string name="not_charging">Not Charging</string>
+</resources>
